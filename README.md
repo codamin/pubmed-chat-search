@@ -1,5 +1,7 @@
 ### Pubmed QA Chatbot!
 
+![image](screenshot.png)
+
 This repository contains the code for a chatbot that retrieves relevant articles from PubMed based on free-form user queries.
 
 ##### Capabilities:
@@ -22,7 +24,7 @@ git clone https://github.com/codamin/pubmed-chat-search.git
 pip install -r requirements.txt
 ```
 
-3. Add the AZURE OPENAI LLM API KEY and ENDPOINT to the `.env` file
+3. Add the AZURE OPENAI KEY and ENDPOINT to the `.env` file
 ```bash
 AZURE_OPENAI_API_KEY=...
 AZURE_OPENAI_ENDPOINT=...
