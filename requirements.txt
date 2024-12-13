@@ -1,5 +1,5 @@
 requests
 langchain_core
-langchain_ollama
 langchain_openai
 python-dotenv
+streamlit
